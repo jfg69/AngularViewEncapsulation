@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+.myStyle {
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 60px;
+    text-align: center;
+    margin: 30px 200px;
+    color: black;
+    background-color: lightgrey;
+}
